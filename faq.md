@@ -32,4 +32,4 @@ Absolutely, we require good conduct from all the participants to ensure the work
 
 ### I still have a few questions...
 
-Please contact osw-bordeaux-neurocampus(at)mailo.com if you have any further request.
+Please contact rtea.ubordeaux(at)gmail.com if you have any further request.
