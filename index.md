@@ -5,13 +5,9 @@
 layout: default
 ---
 
-Welcome to the first edition of the Bordeaux Neurocampus Open Science Workshop, a 5-day workshop dedicated to promoting Open Science principles. 
+Welcome to the second edition of the Bordeaux Neurocampus Open Science Workshop, a 3-day workshop dedicated to promoting Open Science principles. 
 
-This edition will take place from October 16th to October 20th, 2023.
-
-&#128226; <b>Ask for your copy of the program!</b> &#128226;
-
-<b><a href="{{ site.baseurl }}/assets/OS_workshop_booklet_web.pdf" download>Download program booklet (PDF)</a></b>
+This edition will take place from May 26th to October 28th, 2025.
 
 ## Venue
 
@@ -19,9 +15,9 @@ This edition will take place from October 16th to October 20th, 2023.
 
 ## Important dates
 
-- **Call for application:** July 2nd - September 9th 2023
-- **Notification of acceptance:** September 11th 2023
-- **Workshop:** October 16th- 20th 2023
+- **Call for application:** April - May  2025
+- **Notification of acceptance:** Before Mid May 2025
+- **Workshop:** May 26th- 28th 2023
 
 ## Our engagements 
 
@@ -57,4 +53,4 @@ This edition will take place from October 16th to October 20th, 2023.
 
 ## Contact us
 
-Please contact osw-bordeaux-neurocampus(at)mailo.com if you have any question.
+Please contact rtea.ubordeaux(at)gmail.com if you have any question.
