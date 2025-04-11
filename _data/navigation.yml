@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: Apply
+  link: /apply
+- name: Program
+  link: /program
+- name: Speakers
+  link: /speakers
+- name: Organizers
+  link: /organizers
+- name: Venue
+  link: /venue
+- name: FAQ
+  link: /faq
+#- name: Archives
+#  link: /archives
