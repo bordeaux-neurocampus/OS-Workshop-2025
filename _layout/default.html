@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset="UTF-8">
+
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+    type="text/css" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
+</head>
+
+<body>
+  <header class="page-header" role="banner">
+    <img style="max-height: 200px" alt="OS workshop logo" src="{{ site.baseurl }}/assets/img/logo-OSW.png">
+    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    {% if page.title %}
+    <h2 class="project-tagline">{{ page.title }}</h2>
+    {% else %}
+    <h2 class="project-tagline">&nbsp;</h2>
+    {% endif %}
+  </header>
+  <main id="content" class="main-content" role="main">
+    {% include navigation.html %}
+    {{ content }}
+    <footer class="site-footer">
+      <div>
+        <a href="https://www.bordeaux-neurocampus.fr/en/" target="_blank">
+          <img alt="Bordeaux Neurocampus logo" src="{{ site.baseurl }}/assets/img/logo-Bordeaux-Neurocampus.jpg" height="100">
+        </a>
+        <a href="https://www.gouvernement.fr/france-2030" target="_blank"><img alt="France 2030 logo" src="{{ site.baseurl }}/assets/img/logo-France2030.png" height="100"></a>
+        <a href="https://neurocampus-graduateprogram.u-bordeaux.fr/" target="_blank">
+          <img alt="Bordeaux Neurocampus Graduate Program logo" src="{{ site.baseurl }}/assets/img/logo-Graduate-Program.png" height="80">
+        </a>
+      </div>
+      <div>&copy; 2023 Bordeaux Neurocampus</div>
+    </footer>
+  </main>
+</body>
+
+</html>
