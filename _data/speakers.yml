@@ -1,21 +1,33 @@
-- id: dymarska
-  name: Agata Dymarska
-  pic: 
-  link: linkedin.com/in/agata-dymarska-phd-386a99b2
-  org: Adam Mickiewicz University in Poznań, Poland
-  bio: "Dr. Agata Dymarska is a cognitive psychologist and linguist at Adam Mickiewicz University in Poznań, Poland. Her research explores how language and sensorimotor experiences shape conceptual representations and memory. She actively contributes to open science by sharing her work on platforms like the Open Science Framework, promoting transparency and accessibility in scientific research."
-- id: glatz
-  name: Toivo Glatz
-  pic: 
-  link: https://www.labri.fr/perso/nrougier/
-  org: Institute for Public Health, Charité University, Berlin
-  bio: "Dr Toivo Glatz,  is a Research Fellow at Charité – Universitätsmedizin Berlin. He obtained his PhD in behavioral and cognitive neuroscience at the University of Groningen on the usage of game-based learning tools. He serves as an Open Science Ambassador at Charité, as part of the Berlin University Alliance's initiative to foster research quality and transparency. He has a special interest in the topic of peer reviewing."
 - id: azevedo
   name: Flavio Azevedo
   pic: 
   link: https://flavioazevedo.com/
   org: Utrecht University, Netherlands
   bio: "Dr Flavio Azevedo is an assistant professor at Utrecht University. He obtained a PhD in political Science from the University of Cologne. As a researcher he investigates how ideologies and identities justify social and economic injustices, with a particular focus on conservatism, neoliberalism, libertarianism, and populism. He also is engaged in many different interest groups promoting open science most notably the Framework for open and reproducible research training (FORRT) initiative. His work outlines practical approaches to embed open science training within academic institutions."
+- id: dymarska
+  name: Agata Dymarska
+  pic: 
+  link: linkedin.com/in/agata-dymarska-phd-386a99b2
+  org: Adam Mickiewicz University in Poznań, Poland
+  bio: "Dr. Agata Dymarska is a cognitive psychologist and linguist at Adam Mickiewicz University in Poznań, Poland. Her research explores how language and sensorimotor experiences shape conceptual representations and memory. She actively contributes to open science by sharing her work on platforms like the Open Science Framework, promoting transparency and accessibility in scientific research."
+- id: field
+  name: Sarahanne M. Field
+  pic: 
+  link: linkedin.com/in/agata-dymarska-phd-386a99b2
+  org: Groningen University, Netherlands
+  bio: "Dr Sarahanne M. Field is an assistant professor at Groningen University where she also obtained her PhD. She studies how science works and how it can be improved  to understand research practices like preregistration, replication, and ethical conduct, and how the scientific community is changing. Thus, she is also heavily involved in the open science movement. She is an editor-in-Chief of the Journal of Trial and Error, and Advocate for Global Inclusivity in Science Reform"
+- id: glatz
+  name: Toivo Glatz
+  pic: 
+  link: https://www.labri.fr/perso/nrougier/
+  org: Institute for Public Health, Charité University, Berlin
+  bio: "Dr Toivo Glatz is a Research Fellow at Charité – Universitätsmedizin Berlin. He obtained his PhD in behavioral and cognitive neuroscience at the University of Groningen on the usage of game-based learning tools. He serves as an Open Science Ambassador at Charité, as part of the Berlin University Alliance's initiative to foster research quality and transparency. He has a special interest in the topic of peer reviewing."
+- id: retorre
+  name: Leticia Rettore Miceli
+  pic: 
+  link: https://www.universiteitleiden.nl/en/staffmembers/leticia-rettore-micheli#tab-1
+  org: Leiden University, Netherlands
+  bio: "Dr Leticia Retorre Miceli is an assistant professor at Leiden University. She obtained her PhD in Neuroeconomics from Maastricht University. She investigates how situations of inequality, unfairness and scarcity influence our psychology as well as our behavior when interacting with others. Leticia is a part of the FORRT initiative where she leads the POST-Edu that aims at developing a pedagogically-informed, evidence-based, self-guided program for supporting the teaching of Open Science in education."
 - id: rougier
   name: Nicolas P. Rougier
   pic: rougier.png
