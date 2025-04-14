@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the second edition of the Bordeaux Neurocampus Open Science Workshop, a 3-day workshop dedicated to promoting Open Science principles. 
 
-This edition will take place from May 26th to October 28th, 2025.
+This edition will take place from May 26th to May 28th, 2025.
 
 ## Venue
 
@@ -18,6 +18,10 @@ This edition will take place from May 26th to October 28th, 2025.
 - **Call for application:** April - May  2025
 - **Notification of acceptance:** Before Mid May 2025
 - **Workshop:** May 26th- 28th 2023
+
+## Application
+
+{% include apply.md %}
 
 ## Our engagements 
 
@@ -34,6 +38,10 @@ This edition will take place from May 26th to October 28th, 2025.
 ## Confirmed speakers
 
 {% include speakers.html %}
+
+## Organizers
+
+{% include organizers.html %}
 
 ## News
 
