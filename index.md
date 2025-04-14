@@ -68,4 +68,4 @@ We are looking forward to hearing from you!
 
 ## Contact us
 
-Please contact rtea.ubordeaux(at)gmail.com if you have any question.
+Please contact rtea.ubordeaux@gmail.com if you have any question.
