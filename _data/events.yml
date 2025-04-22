@@ -36,13 +36,13 @@ WS2:
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB))"
   alterned: true
 WS3:
-  title: "WS3: Version control in the lab"
-  speakers: rougier
+  title: "WS3: Reproducibility"
+  speakers: azevedo
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB)"
   alterned: true
 WS4:
-  title: "WS4: Writing and sharing your protocols with Protocols.io"
-  speakers: ganley
+  title: "WS4: Science Communication"
+  speakers: retorre
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB)"
   alterned: true
 P1:
