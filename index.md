@@ -46,6 +46,10 @@ We are looking forward to hearing from you!
 
 {% include speakers.html %}
 
+## Programme
+
+{% include schedule.html %}
+
 ## Organizers
 
 {% include organizers.html %}
