@@ -149,38 +149,34 @@
         <tbody>
             <tr style="height: 10px">
                 <th class="time">09:00</th>
-                <td class="slot noevent" rowspan="5"></td>
+                {% assign event = site.data.events.T1 %}
+                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.T4 %}
                 <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.T7 %}
-                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.T10 %}
                 <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
+            </tr>
+            <tr style="height: 10px">
+                <th class="time">10:00</th>
+                {% assign event = site.data.events.T2 %}
+                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
+                {% assign event = site.data.events.T5 %}
+                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.P1 %}
                 <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
             </tr>
             <tr style="height: 10px">
-                <th class="time">09:45</th>
-                {% assign event = site.data.events.T5 %}
-                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.T8 %}
-                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
-            </tr>
-            <tr style="height: 10px">
-                <th class="time">10:30</th>
-                <td class="slot break">break</td>
+                <th class="time">11:00</th>
                 <td class="slot break">break</td>
                 <td class="slot break">break</td>
                 <td class="slot break">break</td>
             </tr>
             <tr style="height: 20px">
-                <th class="time">10:45</th>
+                <th class="time">11:30</th>
+                {% assign event = site.data.events.T3 %}
+                <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.T6 %}
                 <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.T9 %}
-                <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.T11 %}
-                <td class="slot session" dir="ltr">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.P2 %}
                 <td class="slot session" dir="ltr" rowspan="2">{% include schedule-slot.html %}</td>
             </tr>
@@ -191,8 +187,6 @@
             </tr>
             <tr style="height: 10px">
                 <th class="breaktime">12:15</th>
-                <td class="slot break" rowspan="2"></td>
-                <td class="slot break" rowspan="2">lunch</td>
                 <td class="slot break" rowspan="2">lunch</td>
                 <td class="slot break" rowspan="2">lunch</td>
                 {% assign event = site.data.events.TC %}  <!-- Closing talk -->
@@ -204,36 +198,13 @@
             </tr>
             <tr style="height: 10px">
                 <th class="time">13:30</th>
-                <td class="slot break">Registration + Welcome Coffee</td>
                 {% assign event = site.data.events.WS1 %}
                 <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.WS3 %}
                 <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.WS5 %}
-                <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
-            </tr>
-            <tr style="height: 10px">
-                <th class="time">14:00</th>
-                {% assign event = site.data.events.T1 %}  <!-- Opening talk -->
-                <td class="slot opening_closing" dir="ltr">{% include schedule-slot.html %}</td>
-            </tr>
-            <tr style="height: 10px">
-                <th class="time">14:15</th>
-                <td class="slot session" dir="ltr">Presentation of the Workshop</td>
-                <td class="slot noevent" rowspan="10"></td>
-            </tr>
-            <tr style="height: 10px">
-                <th class="time">14:45</th>
-                <td class="slot break">break</td>
             </tr>
             <tr style="height: 10px">
                 <th class="time">15:00</th>
-                {% assign event = site.data.events.T2 %}
-                <td class="slot session" dir="ltr" rowspan="4">{% include schedule-slot.html %}</td>
-            </tr>
-            <tr style="height: 10px">
-                <th class="time">15:30</th>
-                <td class="slot break">break</td>
                 <td class="slot break">break</td>
                 <td class="slot break">break</td>
             </tr>
@@ -242,8 +213,6 @@
                 {% assign event = site.data.events.WS2 %}
                 <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
                 {% assign event = site.data.events.WS4 %}
-                <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
-                {% assign event = site.data.events.WS6 %}
                 <td class="slot session" dir="ltr" rowspan="5">{% include schedule-slot.html %}</td>
             </tr>
             <tr style="height: 10px">
@@ -263,11 +232,9 @@
                 <td class="slot session">Presentation of the attendees</td>
             </tr>
             <tr style="height: 10px">
-                <th class="breaktime">Evening</th>
-                <td class="slot break">Free</td>
                 <td class="slot social">Dinner</td>
-                <td class="slot break">Free</td>
                 <td class="slot social">Happy Hour</td>
+                
             </tr>
         </tbody>
     </table>
