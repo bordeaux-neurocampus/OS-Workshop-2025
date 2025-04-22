@@ -1,25 +1,25 @@
-T1:
+T0:
   title: "Welcome intervention"
   speakers: ducq
-T2:
+T1:
   title: "Open Science: the Big Picture"
   speakers: rougier
-T3:
+T2:
   title: "Pre-registrations & Registered Reports"
   speakers: dymarska
-T4:
+T3:
   title: "Peer Reviewing"
   speakers: glatz
-T5:
+T4:
   title: "Ensuring Reliability in Experimental Science: Challenges and Advances"
   speakers: field
-T6:
+T5:
   title: "Replication Crisis"
   speakers: azevedo
-T7:
+T6:
   title: "Educating for Science Communication: Building Open and Inclusive Practices"
   speakers: retorre
-T8:
+T7:
   title: "Computional Reproducibility Practices & Tips"
   speakers: rougier
 TC:
@@ -47,6 +47,8 @@ WS4:
   alterned: true
 P1:
   title: "Panel: Current Challenges and Open Questions"
+P2:
+  title: "Panel: TBD"
   #speakers:
     #- chraibi
     #- forkel
