@@ -5,7 +5,7 @@ T1:
   title: "Open Science: the Big Picture"
   speakers: rougier
 T2:
-  title: "Pre-registrations & Registered Reports"
+  title: "Pre-registration in Neuroscience: What, Why, and How"
   speakers: dymarska
 T3:
   title: "Peer Reviewing"
@@ -14,10 +14,10 @@ T4:
   title: "Ensuring Reliability in Experimental Science: Challenges and Advances"
   speakers: field
 T5:
-  title: "Replication Crisis"
+  title: "Big-Team Science and Open Science: Opportunities, Challenges, and the Future of Inclusive Collaboration"
   speakers: azevedo
 T6:
-  title: "Educating for Science Communication: Building Open and Inclusive Practices"
+  title: "Introducing FORRT Curriculum"
   speakers: retorre
 T7:
   title: "Computional Reproducibility Practices & Tips"
@@ -26,7 +26,7 @@ TC:
   title: "Closing Talk"
   speakers: nadjar
 WS1:
-  title: "WS1: Writing your Pre-registration"
+  title: "WS1: Making Preregistration Work in the Lab: A Practical Workshop"
   speakers: dymarska
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB)"
   alterned: true
@@ -36,12 +36,12 @@ WS2:
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB))"
   alterned: true
 WS3:
-  title: "WS3: Reproducibility"
+  title: "WS3: Scaling Open Science Education: Leveraging FORRT Resources for Training, Research, and Community Engagement"
   speakers: azevedo
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB)"
   alterned: true
 WS4:
-  title: "WS4: Science Communication"
+  title: "WS4: Making the Implicit Explicit: Co-Developing a guide to help early-careers navigate the hidden curriculum in academia"
   speakers: retorre
   room: "Salle Nord / Salle Sud / Salle de Formation (CGFB)"
   alterned: true
